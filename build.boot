@@ -15,7 +15,7 @@
   jar {:main 'jutsu.ai.ui.core
        :manifest {"Description" "Clojure library meant to do..."}}
   pom {:version "0.0.1"
-       :project 'author/jutsu.ai.ui
+       :project 'hswick/jutsu.ai.ui
        :description "jutsu.ai.ui is meant to do..."
        :url "https://github.com/author/jutsu.ai.ui"}
   push {:repo "clojars"})
